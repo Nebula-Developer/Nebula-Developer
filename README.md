@@ -18,22 +18,19 @@ I look to live in a world where software can do anything, while being accessible
 
 ## Main Projects
 
-<br />
+<ul>
+<li>
+    <a style="color: rgb(200, 200, 200)" href="https://github.com/nebula-developer/nebulaos">NebulaOS 💻</a>
+</li>
 
-- NebulaOSㅤ💻
-    - Boot System for NebulaOS
-    - Style Hander
+<li>
+    <a style="color: rgb(100, 255, 200)" href="https://github.com/nebula-developer/learnplus">LearnPlus 🎓</a>
+</li>
 
-<br />
-
-- LearnPlus Education Extensionㅤ🎓
-
-- Iolite Programming Languageㅤ🧑‍💻
-    - NLang Programmming Langauge (Old)
-
-- Ōtākaro Historiesㅤ🌐
-
-- And much more..
+<li>
+    <a style="color: rgb(100, 200, 255)" href="https://github.com/nebula-developer/iolite">Iolite 🧑‍💻</a>
+</li>
+</ul>
 
 <!---
 (Nebula-Developer/Nebula-Developer README.md)
