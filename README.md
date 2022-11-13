@@ -28,7 +28,7 @@ I look to live in a world where software can do anything, while being accessible
 </li>
 
 <li>
-    <a style="color: rgb(100, 200, 255)" href="https://github.com/nebula-developer/iolite">Iolite 🧑‍💻</a>
+    <a style="color: rgb(100, 200, 255)" href="https://github.com/nebula-developer/iolite">Iolite 🧑‍💻 (inactive)</a>
 </li>
 </ul>
 
