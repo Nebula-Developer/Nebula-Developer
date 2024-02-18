@@ -1,4 +1,4 @@
-<img src="Profile.gif">
+<!-- <img src="Profile.gif"> -->
 
 
 <h1 align="center">Nebula Developer</h1>
