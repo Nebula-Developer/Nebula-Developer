@@ -11,27 +11,14 @@
 
 <br />
 
-I look to live in a world where software can do anything, while being accessible to everyone.
+<h3 align="center">
+    I look to live in a world where software can do anything, while being accessible to everyone.
+</h3>
 
 <br />
-
-
-## Main Projects
-
-<ul>
-<li>
-    <a style="color: rgb(200, 200, 200)" href="https://github.com/nebula-developer/nebulaos">NebulaOS 💻</a>
-</li>
-
-<li>
-    <a style="color: rgb(100, 255, 200)" href="https://github.com/nebula-developer/learnplus">LearnPlus 🎓</a>
-</li>
-
-<li>
-    <a style="color: rgb(100, 200, 255)" href="https://github.com/nebula-developer/iolite">Iolite 🧑‍💻 (inactive)</a>
-</li>
-</ul>
-
+<h3 align="center">
+    <a href="https://github.com/Nebula-Developer/Yoru-Engine">Yoru Engine - Flexible 2D game/application framework for crossplatform development</a>
+</h3>
 <!---
 (Nebula-Developer/Nebula-Developer README.md)
 --->
