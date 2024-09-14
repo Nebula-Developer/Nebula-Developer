@@ -12,7 +12,7 @@
 <br />
 
 <h3 align="center">
-    I look to live in a world where software can do anything, while being accessible to everyone.
+    
 </h3>
 
 <br />
