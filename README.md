@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-    coding/music/art
+    code/music/art
     <br/>
     <sub>always aiming higher</sub>
 </p>
